@@ -19,7 +19,7 @@ class Post extends Component {
       <div>
         <header className="App-header">
           <Logo height={80} width={80} styleName="App-logo"/>
-          <h1 className="App-title">Cosmic JS</h1>
+          <h1 className="App-title">Sandra Abago's Blog</h1>
         </header>
           <PostList
             posts={this.props.data}
